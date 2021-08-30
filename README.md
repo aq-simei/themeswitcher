@@ -1,6 +1,6 @@
 This is a project based on Type Script using React JS in order to create a responsive Theme Switcher.
 
-The first step is to create a new React app using #create-react-app and the Type Script template (--templat=typescript)
+The first step is to create a new React app using create-react-app and the Type Script template (--template=typescript)
 
 I used some libraries and websites in order to work with colors and displays
 
